@@ -1,0 +1,25 @@
+{
+  "name": "ts_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavaPislyakov/ts_sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavaPislyakov/ts_sample/issues"
+  },
+  "homepage": "https://github.com/slavaPislyakov/ts_sample#readme",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
